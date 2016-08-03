@@ -1,5 +1,5 @@
 TopKWords
 =========
 
-A function that returns k the most frequent words in a txt file.
+A function that returns the K most frequent words in a txt file.
 
